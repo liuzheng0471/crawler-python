@@ -1,0 +1,11 @@
+name: It's Only the Himalayas--- star-rating: Two --- price: Â£45.17
+name: Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond--- star-rating: Four --- price: Â£49.43
+name: See America: A Celebration of Our National Parks & Treasured Sites--- star-rating: Three --- price: Â£48.87
+name: Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel--- star-rating: Two --- price: Â£36.94
+name: Under the Tuscan Sun--- star-rating: Three --- price: Â£37.33
+name: A Summer In Europe--- star-rating: Two --- price: Â£44.34
+name: The Great Railway Bazaar--- star-rating: One --- price: Â£30.54
+name: A Year in Provence (Provence #1)--- star-rating: Four --- price: Â£56.88
+name: The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)--- star-rating: One --- price: Â£23.21
+name: Neither Here nor There: Travels in Europe--- star-rating: Three --- price: Â£38.95
+name: 1,000 Places to See Before You Die--- star-rating: Five --- price: Â£26.08
